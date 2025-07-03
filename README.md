@@ -1,1 +1,1 @@
-"# EpochData" 
+This repository contains the OSF id to the iEEG datasets used by the `EpochDownloader` in `Epoch` package.
